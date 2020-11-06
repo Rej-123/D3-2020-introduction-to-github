@@ -1,0 +1,90 @@
+header {
+  background: #FFF;
+  display: flex;
+  align-items: center;
+}
+
+section {
+  border-bottom:  1px solid #000;
+box-shadow: -1px 7px 5px -1px rgba(36,21,36,1);
+  padding: 12em;
+  min-height: 100vh;
+}
+
+p span {
+  font-size: 2em;
+}
+
+h2 {
+  border-bottom: 2px solid black;
+  text-transform: uppercase;
+}
+
+/*STYLES POUR NAVIGATION*/
+
+nav{
+  width: 100%;
+}
+
+
+nav ul {
+  display: flex;
+  justify-content: space-around;
+}
+
+nav a {
+  display: contents;
+  background: rgb(255, 200, 100);
+  padding: 15em;
+}
+
+
+/* STYLES POUR SECTION 01 */
+
+#section01 {
+background: url('https://image.freepik.com/vecteurs-libre/femme-grecque-antique-dans-tunique-se-dresse-s-appuie-piedestal-pierre-image-vectorielle-isolee-fond-blanc_168440-35.jpg') no-repeat top center;
+background-size: cover;
+background-attachment: fixed;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+
+
+#section01 h1 {
+  color: white;
+  font-size: 8em;
+  text-align: center;
+}
+
+/* STYLES POUR SECTION O3 */
+#section03 {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#section03 h2 {
+  color: white;
+  font-size: 3em;
+  border-bottom:  1px solid #FFF;
+}
+
+
+#section03 p {
+color: white;
+font-size: 2em;
+}
+
+.fable-info {
+  border: 1px solid rgb(0,0,0);
+  margin: 1em;
+  padding: 1em;
+  background: black;
+  border-radius: 1em;
+  flex-basis: 320px;
+  flex-grow: 1;
+}
+
+
+div {}

@@ -1,0 +1,26 @@
+@import "https://fonts.googleapis.com/css2?family=Staatliches&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@300&family=Lora&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@600&family=Playfair+Display+SC&family=Spectral+SC:wght@600&display=swap";
+
+body {
+font-family: 'Cormorant Garamond', serif;
+}
+
+h1 {
+font-family: 'Spectral SC', serif;
+font-size: 5em;
+margin-top: 1em;
+margin-bottom: 1.5em;
+}
+
+h2 {
+font-family: 'Spectral SC',serif;
+font-size: 2.5em;
+margin-top: 2em;
+margin-bottom: 1em;
+}
+
+p {
+  margin-bottom: 2em;
+  font-size: 1em;
+}
